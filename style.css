@@ -325,3 +325,15 @@ span.material-symbols-rounded {
     font-size: 1.25rem!important;
   }
 }
+
+@media screen and (max-width: 900px) {
+  .alert-box {
+      width: 90%;
+  }
+}
+
+@media screen and (max-width: 400px) {
+  .alert-box {
+      width: 95%;
+  }
+}
